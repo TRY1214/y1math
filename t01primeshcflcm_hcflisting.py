@@ -1,5 +1,5 @@
-# Find the HCF of num1 and num2, using the listing method.
+# Find the HCF of 12 and 18, using the listing method.
 
-num1 = 
-num2 = 
+12 = 2*2*3
+18 = 2*3*3
 
